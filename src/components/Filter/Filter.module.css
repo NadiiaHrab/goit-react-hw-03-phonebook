@@ -1,0 +1,14 @@
+.labelFilter {
+    font-size: 16px;
+}
+
+.inputFilter {
+margin-bottom: 20px;
+padding-left: 8px;
+width: 220px;
+height: 20px;
+border-radius: 4px;
+border: 1px solid gray;
+
+}
+
